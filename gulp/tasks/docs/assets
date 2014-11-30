@@ -1,0 +1,8 @@
+NAME
+gulp-assets
+
+SYNOPSIS
+gulp assets [-w -r -i -o]
+
+DESCRIPTION
+Constructs a static asset depending on the input
